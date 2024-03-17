@@ -1,0 +1,76 @@
+/* Estilos generales */
+footer {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Estilos para el hero section */
+.hero {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.hero h1 {
+    font-size: 36px;
+    color: #e6e6e6;
+    margin-bottom: 10px;
+}
+
+.hero h2 {
+    font-size: 24px;
+    color: #cccccc;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 18px;
+    color: #e8e8e8;
+}
+
+/* Estilos para el contacto section */
+.contacto {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.contacto h2 {
+    font-size: 24px;
+    color: #fcffed;
+    margin-bottom: 10px;
+}
+
+.contacto p {
+    font-size: 18px;
+    color: #555;
+}
+
+/* Estilos para el footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+footer p {
+    font-size: 14px;
+}
+
+/* Estilos para los enlaces del footer */
+footer a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+footer a:hover {
+    color: #ddd;
+}
